@@ -1,0 +1,24 @@
+body {
+  background-color: #F4FCD9;
+}
+
+hr {
+  border-color: #E0DDAA;
+  border-style: dotted none none;
+  height: 0px;
+  border-width: 6px;
+  width: 10%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #8B4D32;
+  font-family: "Monaco", monospace;
+}
+
+h3 {
+  color: #CC9466;
+}
